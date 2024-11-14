@@ -1,0 +1,34 @@
+services:
+  fastapi:
+    build:
+      context: .
+      dockerfile: Dockerfile.fastapi
+    ports:
+      - "8000:8000"
+    networks:
+      - kafka-net
+  kafka_consumer:
+    build:
+      context: .
+      dockerfile: Dockerfile.consumer
+    networks:
+      - kafka-net
+
+  streamlit:
+    build:
+      context: .
+      dockerfile: Dockerfile.streamlit
+    ports:
+      - "8501:8501"
+    networks:
+      - kafka-net
+
+volumes:
+  zookeeper_data:
+  zookeeper_logs:
+  kafka_data:
+
+networks:
+  kafka-net:
+    external: true
+    name: kafka-network

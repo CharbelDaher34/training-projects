@@ -1,0 +1,5 @@
+torch
+transformers
+pydantic
+fastapi
+uvicorn[standard]

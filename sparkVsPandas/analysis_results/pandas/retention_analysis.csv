@@ -1,0 +1,8 @@
+,tenure_days,tenure_days,tenure_days,tenure_days,salary
+,mean,min,max,count,mean
+department,,,,,
+Engineering,1826.69,0,3650,635492,114964.58
+Finance,1822.9,0,3650,634049,97512.61
+HR,1824.37,0,3650,633422,75009.19
+Marketing,1824.41,0,3650,633685,82516.46
+Sales,1825.86,0,3650,633352,90020.49

@@ -1,0 +1,6 @@
+department,count,mean_salary,max_salary,mean_projects,total_projects
+Sales,134,129995.75,130000,10.49,1406
+Engineering,96,159995.35,160000,10.61,1019
+Finance,114,139995.13,140000,10.11,1153
+HR,138,109995.7,110000,10.78,1487
+Marketing,97,119995.77,120000,9.82,953

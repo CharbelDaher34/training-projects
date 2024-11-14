@@ -1,0 +1,31 @@
+Performance Comparison Summary
+===========================
+Analysis Date: 2024-11-08 12:23:55
+
+Total Execution Times:
+Pandas: 155.17 seconds
+PySpark: 152.28 seconds
+Overall Speedup Factor: 1.02x
+
+Detailed Operation Times:
+              Operation  Pandas Time (s)  PySpark Time (s)  Speedup Factor
+0              Read CSV            65.12              9.49        6.861960
+1               Query 1             1.80             10.31        0.174588
+2               Query 2             2.59             16.57        0.156307
+3               Query 3             5.72             19.86        0.288016
+4               Query 4             0.64             10.38        0.061657
+5               Query 5             1.71              9.53        0.179433
+6  Total execution time            77.59             76.14        1.019044
+
+Fastest Operations in Pandas:
+  Operation  Pandas Time (s)  PySpark Time (s)  Speedup Factor
+1   Query 1             1.80             10.31        0.174588
+2   Query 2             2.59             16.57        0.156307
+3   Query 3             5.72             19.86        0.288016
+4   Query 4             0.64             10.38        0.061657
+5   Query 5             1.71              9.53        0.179433
+
+Fastest Operations in PySpark:
+              Operation  Pandas Time (s)  PySpark Time (s)  Speedup Factor
+0              Read CSV            65.12              9.49        6.861960
+6  Total execution time            77.59             76.14        1.019044

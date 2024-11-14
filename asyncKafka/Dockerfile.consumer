@@ -1,0 +1,20 @@
+# Dockerfile.consumer
+FROM python:3.10-slim
+
+WORKDIR /app
+
+COPY requirements.txt .
+
+RUN pip install -r requirements.txt
+
+
+
+RUN pip install torch  --index-url https://download.pytorch.org/whl/cpu
+
+# Pre-download the Hugging Face model and tokenizer using the pipeline
+RUN python -c "from transformers import pipeline; \
+             llm = pipeline('text-generation', model='distilgpt2')"
+
+COPY kafkaConsumer.py .
+
+CMD ["python", "kafkaConsumer.py"]

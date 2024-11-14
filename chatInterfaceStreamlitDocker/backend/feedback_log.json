@@ -1,0 +1,117 @@
+[
+    {
+        "query": "string",
+        "response": "string",
+        "feedback": "string"
+    },
+    {
+        "query": "ghghk",
+        "response": "[[{'label': 'positive', 'score': 0.3634973466396332}, {'label': 'negative', 'score': 0.35687288641929626}, {'label': 'neutral', 'score': 0.27962976694107056}]]",
+        "feedback": "Good"
+    },
+    {
+        "query": "string",
+        "response": "string",
+        "feedback": "string"
+    },
+    {
+        "query": "nksdf",
+        "response": "[[{'label': 'positive', 'score': 0.4009050726890564}, {'label': 'negative', 'score': 0.3226090967655182}, {'label': 'neutral', 'score': 0.276485800743103}]]",
+        "feedback": "Good"
+    },
+    {
+        "query": "sdfsdfsd",
+        "response": "[[{'label': 'positive', 'score': 0.43683063983917236}, {'label': 'negative', 'score': 0.32005971670150757}, {'label': 'neutral', 'score': 0.24310968816280365}]]",
+        "feedback": "Good"
+    },
+    {
+        "query": "sdfdsf",
+        "response": "[[{'label': 'positive', 'score': 0.4344116151332855}, {'label': 'negative', 'score': 0.34420764446258545}, {'label': 'neutral', 'score': 0.2213807851076126}]]",
+        "feedback": "Good"
+    },
+    {
+        "query": "sfwf",
+        "response": "[[{'label': 'positive', 'score': 0.43366584181785583}, {'label': 'negative', 'score': 0.3261815309524536}, {'label': 'neutral', 'score': 0.24015262722969055}]]",
+        "feedback": "Good"
+    },
+    {
+        "query": "string",
+        "response": "string",
+        "feedback": "string"
+    },
+    {
+        "query": "df",
+        "response": "[[{'label': 'positive', 'score': 0.43076619505882263}, {'label': 'neutral', 'score': 0.295096755027771}, {'label': 'negative', 'score': 0.274137020111084}]]",
+        "feedback": "Good"
+    },
+    {
+        "query": "sdfsdf",
+        "response": "[[{'label': 'positive', 'score': 0.4445173740386963}, {'label': 'negative', 'score': 0.32417798042297363}, {'label': 'neutral', 'score': 0.2313045710325241}]]",
+        "feedback": "Good"
+    },
+    {
+        "query": "sdfsdf",
+        "response": "[[{'label': 'positive', 'score': 0.4445173740386963}, {'label': 'negative', 'score': 0.32417798042297363}, {'label': 'neutral', 'score': 0.2313045710325241}]]",
+        "feedback": "Good"
+    },
+    {
+        "query": "sdfsdf",
+        "response": "[[{'label': 'positive', 'score': 0.4445173740386963}, {'label': 'negative', 'score': 0.32417798042297363}, {'label': 'neutral', 'score': 0.2313045710325241}]]",
+        "feedback": "Good"
+    },
+    {
+        "query": "sdf",
+        "response": "[[{'label': 'positive', 'score': 0.4344574213027954}, {'label': 'negative', 'score': 0.329024076461792}, {'label': 'neutral', 'score': 0.2365184724330902}]]",
+        "feedback": "Good"
+    },
+    {
+        "query": "string",
+        "response": "string",
+        "feedback": "string"
+    },
+    {
+        "query": "string",
+        "response": "string",
+        "feedback": "string"
+    },
+    {
+        "query": "string",
+        "response": "string",
+        "feedback": "string"
+    },
+    {
+        "query": "string",
+        "response": "string",
+        "feedback": "stri"
+    },
+    {
+        "query": "string",
+        "response": "string",
+        "feedback": "stri"
+    },
+    {
+        "query": "sdfsdf",
+        "response": "[[{'label': 'positive', 'score': 0.4445173740386963}, {'label': 'negative', 'score': 0.32417798042297363}, {'label': 'neutral', 'score': 0.2313045710325241}]]",
+        "feedback": "Good"
+    },
+    {
+        "query": "string",
+        "response": "string",
+        "feedback": "string"
+    },
+    {
+        "query": "sdfsdf",
+        "response": "[[{'label': 'positive', 'score': 0.4445173740386963}, {'label': 'negative', 'score': 0.32417798042297363}, {'label': 'neutral', 'score': 0.2313045710325241}]]",
+        "feedback": "Good"
+    },
+    {
+        "query": "1",
+        "response": "[[{'label': 'positive', 'score': 0.5509958863258362}, {'label': 'neutral', 'score': 0.25591886043548584}, {'label': 'negative', 'score': 0.1930852085351944}]]",
+        "feedback": "Bad"
+    },
+    {
+        "query": "dfdf",
+        "response": "[[{'label': 'positive', 'score': 0.430080384016037}, {'label': 'negative', 'score': 0.28977081179618835}, {'label': 'neutral', 'score': 0.28014877438545227}]]",
+        "feedback": "Good"
+    }
+]

@@ -1,0 +1,27 @@
+{
+  "os": "Linux-6.8.0-48-generic-x86_64-with-glibc2.39",
+  "python": "3.10.13",
+  "startedAt": "2024-11-13T14:50:56.051760Z",
+  "program": "/home/charbel/Desktop/lora/lora.ipynb",
+  "email": "charbeldaher34@gmail.com",
+  "root": "/home/charbel/Desktop/lora",
+  "host": "charbellaptop",
+  "username": "charbel",
+  "executable": "/home/charbel/anaconda3/envs/defaultenv/bin/python",
+  "codePathLocal": "lora.ipynb",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "982820896768",
+      "used": "74800271360"
+    }
+  },
+  "memory": {
+    "total": "24973475840"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  }
+}

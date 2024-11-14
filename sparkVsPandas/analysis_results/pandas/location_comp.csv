@@ -1,0 +1,8 @@
+,,salary,salary,salary,stock_options,stock_options,bonus_eligible
+,,mean,std,count,mean,sum,mean
+country,office,,,,,,
+Australia,Sydney,92017.08,26969.08,633788,2502.68,1586170819,0.5
+Singapore,Singapore,92028.6,26938.9,634445,2498.4,1585099478,0.5
+UK,London,92015.88,26882.42,633731,2500.18,1584441910,0.5
+USA,New York,92021.69,26954.05,633286,2503.28,1585289557,0.5
+USA,San Francisco,92016.77,26928.85,634750,2500.36,1587103136,0.5

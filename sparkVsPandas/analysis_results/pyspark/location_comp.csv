@@ -1,0 +1,6 @@
+country,office,mean_salary,std_salary,employee_count,mean_stock_options,total_stock_options,bonus_eligible_ratio
+USA,San Francisco,92021.8,26954.99,1823681,2500.76,4560585404,0.5
+Singapore,Singapore,92009.14,26943.89,1824565,2498.36,4558426617,0.5
+UK,London,92006.07,26924.72,1824781,2500.36,4562616770,0.5
+USA,New York,92009.62,26942.1,1824145,2497.7,4556159785,0.5
+Australia,Sydney,92006.63,26937.01,1822828,2500.82,4558560984,0.5

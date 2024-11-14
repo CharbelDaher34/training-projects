@@ -1,0 +1,8 @@
+,salary,salary,salary,projects_completed,projects_completed
+,count,mean,max,mean,sum
+department,,,,,
+Engineering,32,159995.69,160000,11.78,377
+Finance,41,139994.2,140000,7.68,315
+HR,51,109996.22,110000,9.98,509
+Marketing,30,119995.73,120000,11.37,341
+Sales,47,129995.4,130000,11.77,553

@@ -1,0 +1,29 @@
+services:
+  backend:
+    build:
+      context: ./backend
+    volumes:
+      - ./backend:/app
+    ports:
+      - "8080:8080"
+    command: uvicorn app:app --reload --host 0.0.0.0 --port 8080 --log-level info --use-colors
+    # command: gunicorn -w 4 -k uvicorn.workers.UvicornWorker -b 0.0.0.0:8080 app:app
+    networks:
+      - app-network # Specify the network for backend
+
+  frontend:
+    build:
+      context: ./frontend
+    ports:
+      - "8501:8501"
+    depends_on:
+      - backend
+    volumes:
+      - ./frontend:/app
+    command: streamlit run app.py
+    networks:
+      - app-network # Specify the network for frontend
+
+networks:
+  app-network: # Define the network here
+    driver: bridge # Using bridge driver for the network

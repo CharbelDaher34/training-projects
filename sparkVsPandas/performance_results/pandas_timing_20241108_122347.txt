@@ -1,0 +1,8 @@
+Read CSV: 65.12 seconds
+Query 1: Department-Experience Level Salary Analysis: 1.80 seconds
+Query 2: Employee Retention Analysis: 2.59 seconds
+Query 3: Performance Metrics Analysis: 5.72 seconds
+Query 4: Location Compensation Analysis: 0.64 seconds
+Query 5: Top Performers Analysis: 1.71 seconds
+
+Total execution time: 77.59 seconds
