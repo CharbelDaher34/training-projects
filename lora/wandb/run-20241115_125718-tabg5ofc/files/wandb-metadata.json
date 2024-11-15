@@ -1,0 +1,31 @@
+{
+  "os": "Linux-6.8.0-48-generic-x86_64-with-glibc2.39",
+  "python": "3.10.13",
+  "startedAt": "2024-11-15T10:57:18.631693Z",
+  "program": "/home/charbel/Desktop/Eurisko/training-projects/lora/text_lora.ipynb",
+  "git": {
+    "remote": "git@github.com:CharbelDaher34/training-projects.git",
+    "commit": "3b03a05df4a22313853908eee9d807d8d9101c37"
+  },
+  "email": "charbeldaher34@gmail.com",
+  "root": "/home/charbel/Desktop/Eurisko/training-projects/lora",
+  "host": "charbellaptop",
+  "username": "charbel",
+  "executable": "/home/charbel/anaconda3/envs/defaultenv/bin/python",
+  "codePathLocal": "text_lora.ipynb",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "982820896768",
+      "used": "106690654208"
+    }
+  },
+  "memory": {
+    "total": "24973475840"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  }
+}
